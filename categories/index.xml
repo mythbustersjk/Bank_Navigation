@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 搬砖导航</title>
-    <link>http://www.navigation.sg/categories/</link>
+    <link>https://mythbustersjk.github.io/Bank_Navigaiton/categories/</link>
     <description>Recent content in Categories on 搬砖导航</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>PhoebeJ</copyright><atom:link href="http://www.navigation.sg/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>PhoebeJ</copyright><atom:link href="https://mythbustersjk.github.io/Bank_Navigaiton/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
